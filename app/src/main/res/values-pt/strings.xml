@@ -31,6 +31,8 @@
     <string name="dm_mark_as_seen_setting">Marcar DM como vista após a visualização</string>
     <string name="dm_mark_as_seen_setting_summary">Outros membros saberão que você viu</string>
     <string name="autoplay_stories_setting">Reproduzir vídeos dos stories automaticamente</string>
+    <string name="story_list_setting">Mostrar lista de stories por padrão</string>
+    <string name="story_list_setting_summary">Para ver stories</string>
     <string name="activity_setting">Ativar notificações de atividade</string>
     <string name="story_sort_setting">Ordenação dos stories</string>
     <string name="error_loading_profile">Erro ao carregar perfil! O nome de usuário é válido? Se sim, você pode ter sido limitado pelo Instagram.</string>
@@ -472,7 +474,7 @@
     <string name="crash_report_subject">Relatório de Travamento do Barinsta</string>
     <string name="crash_report_title">Selecione um aplicativo de e-mail para enviar os registros de travamento</string>
     <string name="not_found">Não encontrado!</string>
-    <string name="rate_limit">Seu IP foi limitado pelo Instagram. Espere por uma hora e tente novamente. &lt;a href=\"https://redd.it/msxlko\"&gt;Saiba mais.&lt;/a&gt;</string>
+    <string name="rate_limit">Seu IP foi limitado pelo Instagram. &lt;a href=\"https://barinsta.austinhuang.me/en/latest/faq.html#ratelimits\"&gt;Saiba mais.&lt;/a&gt;</string>
     <string name="skip_update">Pular esta atualização</string>
     <string name="on_latest_version">Você já está na versão mais recente</string>
     <string name="tab_order">Ordem da tela</string>
